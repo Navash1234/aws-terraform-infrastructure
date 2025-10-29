@@ -6,7 +6,7 @@ Provisioned a secure VPC, public subnet, EC2 instance, and S3 bucket only — su
 This repository is for learning and portfolio purposes. **Do not run apply on accounts without understanding costs.**
 
 ## 🧠 Architecture Diagram
-![AWS Architecture Diagram](design/aws-architecture-diagram.png)
+![AWS Architecture Diagram](design/aws-architecture-diagram34.png)
 
 ## 🧩 Tech Stack
 - Terraform  
